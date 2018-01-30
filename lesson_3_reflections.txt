@@ -35,3 +35,6 @@ manually?
 Easy way to see conflicts and merge branches...manually it would take a lot longer and possibly increase conflicts.
 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+So that the changes won't effect the master, to prevent accidentally introducing a bug and to better effectively work with others and make decisions on changes before applying them to the core program.
