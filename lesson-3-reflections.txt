@@ -15,8 +15,16 @@
     Forks clone a repository that is on github to your github account.
     Clones copy a repository on your local directory or from git hub to your computer.
     Branches allow space to work on additional features or versions without changing the master branch until the feature or version is ready to be committed.
+<<<<<<< HEAD
 
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I'd collaborate with a web based directory that a team would have access too. Easy to see files but not easy to see who changes what and when. GitHub provides many additional features and abilities for multiple authors to edit and review file changes.
+||||||| merged common ancestors
+=======
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+To use as a backup.
+>>>>>>> 2e1aa30533a56396157d0cbe3f5717214b5f053c
